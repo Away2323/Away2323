@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Away2323
-- 👀 I’m interested in Python and SDR technology.
+- 👀 I interest in Python and SDR technology.
 - 🌱 I’m currently learning Python.
 
 <!---
